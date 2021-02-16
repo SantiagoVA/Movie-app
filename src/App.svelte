@@ -1,5 +1,5 @@
 <script>
-	import MovieItem from './Movie/item.svelte';
+	import MovieItem from './movie/item.svelte';
 	import { fly } from 'svelte/transition';
 	const APIKEY = '6ecc816338267e2ec9b5812bab07e810';
 	const BASEURL = `https://api.themoviedb.org/3`;
